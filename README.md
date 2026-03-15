@@ -2,14 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Luiz
+Matricula: 925567
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
-
+![Console](images/printf12.jpeg)
+![PrintHTML](images/print.png)
 
 ## Orientações sobre Linguagem MarkDown
 
